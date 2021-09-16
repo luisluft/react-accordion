@@ -1,21 +1,7 @@
-#### Idea
+# Description
 
-[uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
+Simple react app used to learn how to create multiple UI elements containing show more and show less text toggle button given a JSON object.
 
-![](./idea.png);
+# Site deployed
 
-#### React Icons
-
-[react icons](https://react-icons.github.io/react-icons/)
-
-```
-npm install react-icons --save
-```
-
-```javascript
-import { FaHome } from 'react-icons/fa';
-const Component = () => {
-  return <FaHome className='icon'></FaHome>;
-};
-```
-# react-accordion
+Check it out [here](https://luft-react-accordion.netlify.app/)
